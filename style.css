@@ -1,0 +1,7 @@
+.title{color:#8e0000}
+h1{color:#020024;border:2px outset black}
+body{background-color: #c4b4d9;}
+nav{display:flex}
+ul{display: inline-flex;}
+li{margin:20px;font-family: roboto;color: aliceblue;}
+footer{ border: 6px groove black}
